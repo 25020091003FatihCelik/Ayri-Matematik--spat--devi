@@ -1,2 +1,1 @@
-# Ayri-Matematik--spat--devi
-Ayri-Matematik-İspat-ödevi
+Ayrık Matematik dersim kapsamında; Doğrudan, Karşıt Tersle ve Çelişki ile İspat yöntemlerinin yanı sıra Tümevarım ve Niceleyiciler üzerine çalışmalar gerçekleştirdim. Çeşitli matematiksel ifadeleri ispatlarken edindiğim pratikler, karmaşık problemleri çözme yaklaşımımı ve analitik düşünme becerilerimi bir adım öteye taşıdı.
